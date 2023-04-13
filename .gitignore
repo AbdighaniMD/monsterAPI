@@ -1,0 +1,5 @@
+/node_modules
+/.vscode
+/secrets
+.env
+MonstersAPI.session.sql
